@@ -10,9 +10,13 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="Creators;Contributors,Tech" %}
+{% include feature/nav-menu.html sections="Creators;Contributors;Tech" %}
 
-## About the Collection
+## About the Creators
+
+Bianca is a BA Journalism student at the University of the Philippines - Diliman. She resides in Barangay Manggahan, near the Cainta boundary. She’s been a Pasig resident since 2020. 
+
+Nikki is a B Library and Information Science student at the University of the Philippines - Diliman. She resides in Barangay Bambang, Pasig, where she has lived since birth.
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
