@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://www.google.com/imgres?imgurl=https://suntrust.com.ph/sites/default/files/pasig-the-green-city-1.jpg&imgrefurl=https://suntrust.com.ph/blog/everything-you-need-know-about-pasig-city-aka-%25E2%2580%259Cgreen-city%25E2%2580%259D&h=450&w=750&tbnid=nY4a4D84HsqnnM&tbnh=174&tbnw=290&usg=AI4_-kRhF07AhATEJGZwZBNLWbwQmkLP9g&vet=1&docid=laWd63D8rLvVCM
+featured-image: 
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 15em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -90,7 +90,7 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: darkly # leave blank or comment out for plain bootstrap
+bootswatch: superhero # leave blank or comment out for plain bootstrap
 
 # THEME FONTS
 base-font-size: 1.2em
