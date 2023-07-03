@@ -16,13 +16,12 @@ credits: true
 
 Bianca is a BA Journalism student at the University of the Philippines - Diliman. She resides in Barangay Manggahan, near the Cainta boundary. She’s been a Pasig resident since 2020. 
 
-Nikki is a B Library and Information Science student at the University of the Philippines - Diliman. She resides in Barangay Bambang, Pasig, where she has lived since birth.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Nikki is a B Library and Information Science student at the University of the Philippines - Diliman. She resides in Barangay Bambang, Pasig, where she has lived since birth.
 
 ## About the Contributors
 
-Residents of Pasig share their favorite memories living in Pasig. 
+Residents of Pasig share their favorite memories in Pasig.  
 
-If you want to share your experiences living in Pasig, please contact us.
+Want to share your own memories? Contact blucanas@up.edu.ph or ccarlando@up.edu.ph if you want to submit an entry. 
 
