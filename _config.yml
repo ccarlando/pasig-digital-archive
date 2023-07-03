@@ -25,7 +25,7 @@ title: Pasig Archives
 tagline: What's it like to be a Pasigueño
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A digital archive from the perspective of two Pasig citizens - containing our memories and the iconic places in our hometown."
+description: "A digital archive from the perspective of two Pasig citizens - containing our memories and the iconic places in our hometown. Let us take you on a tour around Pasig and show you what it's like to be a Pasigueño!"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Bianca and Nikki
 
@@ -34,7 +34,7 @@ author: Bianca and Nikki
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: metadata2
+metadata: metadata3
 
 ##########
 # Site/Organization Branding 
