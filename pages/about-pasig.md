@@ -3,7 +3,7 @@ title: About Pasig City
 layout: about
 permalink: /about-pasig.html
 ---
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="pasig2.jpg" %}
 
 ## About Pasig City
 
