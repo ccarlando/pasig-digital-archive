@@ -15,3 +15,4 @@ Vico Sotto won the 2022 elections and is currently serving his second term as th
 
 Besides iconic landmarks such as the Pasig River (Ilog Pasig), the city also showcases its identity through its “Umaagos ang pag-asa” (overflowing with hope) is the tagline.
 
+If you want to learn more or be updated with the latest news in Pasig, please visit the city's [Official Website](https://www.pasigcity.gov.ph/).
