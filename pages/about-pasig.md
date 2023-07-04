@@ -3,7 +3,7 @@ title: About Pasig City
 layout: about
 permalink: /about-pasig.html
 ---
-{% include feature/jumbotron.html objectid="pasig2.jpg" %}
+{% include feature/jumbotron.html objectid="pasiglogo.jpg" %}
 
 ## About Pasig City
 
